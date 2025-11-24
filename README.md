@@ -1,4 +1,4 @@
-- Video Classification with HMDB51
+### Video Classification with HMDB51
 This project implements a video classification pipeline using the HMDB51 dataset. It leverages a
 Long-term Recurrent Convolutional Network (LRCN) model that extracts spatial features from
 individual video frames via a ResNet backbone and learns temporal dynamics through an
